@@ -50,11 +50,11 @@
     }
     
     // obtiene libros desde un URL
-    function BooksUrl( u: string) {
+    function BooksUrl( url: string) {
         throw new Error('Function not implemented.');
     }
 
-    function obtainBooksUrl( u: string) {
+    function obtainBooksUrl( url: string) {
         throw new Error('Function not implemented.');
     }
     
@@ -63,7 +63,7 @@
         throw new Error('Function not implemented.');
     }
 
-    function areaOfSquare( s: number ) {
+    function areaOfSquare( side: number ) {
         throw new Error('Function not implemented.');
     }
 
